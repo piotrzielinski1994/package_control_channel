@@ -3670,7 +3670,6 @@
 		},
 		{
 			"name": "PzielinskiMarkdown",
-			"author": "piotrzielinski1994",
 			"details": "https://github.com/piotrzielinski1994/sublime-text-plugin-pzielinski-markdown",
 			"labels": ["markdown", "preview"],
 			"releases": [
